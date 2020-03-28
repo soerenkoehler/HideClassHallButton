@@ -1,0 +1,4 @@
+## Interface: 80300
+## Title: HideClassHallButton
+## Notes: Hides the class hall button on minimap..
+HideClassHallButton.lua
